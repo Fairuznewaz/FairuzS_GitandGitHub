@@ -6,3 +6,5 @@ Created new branch named "differences"
 this branch includes a differences.text
 total 2 branches are created
 Both these branches are merged using the "pull request"
+Merging both the branches made turn into purple icon
+Both of their contents are indicated using different colors. For example: blue and green
